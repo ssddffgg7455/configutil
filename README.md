@@ -26,8 +26,9 @@ if err != nil {
 
 ## 读取配置
 ```
-//[config]
-//app = 1
+// [config]
+// app = 1
+
 // 读取某项配置
 configutil.GetConf("config","app") // return interface{}
 // 读取全部配置
