@@ -1,4 +1,4 @@
-module configutil
+module github.com/ssddffgg7455/configutil
 
 go 1.20
 
